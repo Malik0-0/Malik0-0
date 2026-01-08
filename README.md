@@ -78,7 +78,7 @@ My focus is not just shipping features, but understanding **architecture, data, 
 ## Featured Projects
 
 ### UrbanReport — Civic Tech Application [on development]
-**Tech Stack:** Flutter, Golang, Postgresql, Redis, \
+**Tech Stack:** Flutter, Golang, Postgresql, Redis, 
 
 A full-stack application that allows the public to report environmental problems (damaged roads, garbage, flooding, public facilities), and provides a backend system for centralized monitoring, verification, and reporting status updates.
 
@@ -87,7 +87,7 @@ A full-stack application that allows the public to report environmental problems
 ---
 
 ### GuildHall — Service Marketplace
-**Tech Stack:** Laravel, Node.js, Midtrans, Tailwind, Sqlite & Postgresql, Redis \
+**Tech Stack:** Laravel, Node.js, Midtrans, Tailwind, Sqlite & Postgresql, Redis
 
 A full-stack streamlined service marketplace platform that transforms traditional freelance work into an engaging gamified experience. By incorporating RPG elements like gold currency, experience points, leveling systems, and trust tiers, we've created a unique ecosystem that motivates service providers and builds trust with clients.
 
@@ -97,7 +97,7 @@ A full-stack streamlined service marketplace platform that transforms traditiona
 ---
 
 ### Invify — Invoice Management System
-**Tech Stack:** Next.js, Typescript, Tailwind, Supabase \
+**Tech Stack:** Next.js, Typescript, Tailwind, Supabase
 
 A full-stack invoice management application with business profiles, customer management, invoice generation, PDF export, and email delivery.
 
@@ -107,7 +107,7 @@ A full-stack invoice management application with business profiles, customer man
 ---
 
 ### IgniteGroup — Auto Insurance Data Analytics  
-**Tech Stack:** Python, Pandas, NumPy, SQL, Tableau, Scikit-learn, Streamlit, Pickle \
+**Tech Stack:** Python, Pandas, NumPy, SQL, Tableau, Scikit-learn, Streamlit, Pickle
 
 A collaborative data analytics final project focused on data cleaning, exploratory data analysis (EDA), insight generation, and structured reporting.
 
@@ -117,7 +117,7 @@ A collaborative data analytics final project focused on data cleaning, explorato
 ---
 
 ### California Housing Price Prediction
-**Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Scikit-learn, Google Cloud \
+**Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Scikit-learn, Google Cloud
 
 Machine learning project for predicting housing prices using regression models and evaluation metrics.
 
@@ -126,7 +126,7 @@ Machine learning project for predicting housing prices using regression models a
 ---
 
 ### NYC TLC Data Analysis
-**Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Tableau \
+**Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Tableau
 
 Exploratory data analysis on NYC Taxi & Limousine Commission datasets to uncover trends and insights.
 
