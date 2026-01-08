@@ -109,11 +109,12 @@ A full-stack invoice management application with business profiles, customer man
 ---
 
 ### CircleApp — Social Media
-**Tech Stack:** Next.js, Typescript, Tailwind, Supabase
+**Tech Stack:** Node.js, TypeScript, Tailwind, Express.js, PostgreSQL, Prisma, JWT & bcrypt, Socket.io, Supabase, BullMQ, Redis, Zod
 
 A full-stack social media platform similar to Twitter/X, featuring real-time messaging, user interactions, and content sharing capabilities. The application enables users to create threads, post replies, like content, follow other users, and engage in real-time conversations through WebSocket connections.
 
-**Repo:** https://github.com/Malik0-0/Circle-App
+**Repo:** https://github.com/Malik0-0/Circle-App \
+**Demo:** [on progress]
 
 ---
 
