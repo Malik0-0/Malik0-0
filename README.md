@@ -6,18 +6,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-💻 **Full-Stack Engineer** ——> who enjoys building real-world applications end-to-end  
-📊 **Data Enthusiast** ——> who loves extracting insights from real datasets  
-🛡️ **Offensive Security Learner** ——> breaking systems ethically to understand how they work  
+**Full-Stack Engineer** ——> who enjoys building real-world applications end-to-end  
+**Data Enthusiast** ——> who loves extracting insights from real datasets  
+**Offensive Security Learner** ——> breaking systems ethically to understand how they work  
 
 I learn best by **building**, **testing**, and **exploiting (ethically)** systems.  
 My focus is not just shipping features, but understanding **architecture, data, and security implications** behind them.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -29,11 +29,10 @@ My focus is not just shipping features, but understanding **architecture, data, 
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
-### 🎨 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -43,7 +42,7 @@ My focus is not just shipping features, but understanding **architecture, data, 
 
 ---
 
-### 🧠 Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -52,7 +51,7 @@ My focus is not just shipping features, but understanding **architecture, data, 
 
 ---
 
-### 📊 Data, ML & Visualization
+### Data, ML & Visualization
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -64,7 +63,7 @@ My focus is not just shipping features, but understanding **architecture, data, 
 
 ---
 
-### 🗄️ Database & Cloud
+### Database & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -72,7 +71,7 @@ My focus is not just shipping features, but understanding **architecture, data, 
 
 ---
 
-### 🛡️ Security & Tools
+### Security & Tools
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -81,31 +80,67 @@ My focus is not just shipping features, but understanding **architecture, data, 
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🧾 Invify — Invoice Management System
-A full-stack invoice management application with business profiles, customer management, invoice generation, PDF export, and email delivery.  
+### UrbanReport — Civic Tech Application [on development]
+**Tech Stack:** Flutter, Golang, Postgresql, Redis,
+A full-stack application that allows the public to report environmental problems (damaged roads, garbage, flooding, public facilities), and provides a backend system for centralized monitoring, verification, and reporting status updates.
 
----
-
-### 📊 NYC TLC Data Analysis
-Exploratory data analysis on NYC Taxi & Limousine Commission datasets to uncover trends and insights.  
+**Repo:** https://github.com/PurwadhikaDev/IgniteGroup_DTI_01_FinalProject
 
 ---
 
-### 🧠 California Housing Price Prediction
-Machine learning project for predicting housing prices using regression models and evaluation metrics.  
+### GuildHall — Service Marketplace
+**Tech Stack:** Laravel, Node.js, Midtrans, Tailwind, Sqlite & Postgresql, Redis
+A full-stack streamlined service marketplace platform that transforms traditional freelance work into an engaging gamified experience. By incorporating RPG elements like gold currency, experience points, leveling systems, and trust tiers, we've created a unique ecosystem that motivates service providers and builds trust with clients.
+
+**Repo:** https://github.com/Malik0-0/Guildhall
+**Demo:** https://guildhall.up.railway.app/
 
 ---
 
-## 🛡️ Security Labs & Learning
+### Invify — Invoice Management System
+**Tech Stack:** Next.js, Typescript, Tailwind, Supabase
+A full-stack invoice management application with business profiles, customer management, invoice generation, PDF export, and email delivery.
+
+**Repo:** https://github.com/jund-fauz/invify
+**Demo:** https://invify-demo.vercel.app/
+
+---
+
+### IgniteGroup — Auto Insurance Data Analytics  
+**Tech Stack:** Python, Pandas, NumPy, SQL, Tableau, Scikit-learn, Streamlit, Pickle
+A collaborative data analytics final project focused on data cleaning, exploratory data analysis (EDA), insight generation, and structured reporting.
+
+**Repo:** https://github.com/PurwadhikaDev/IgniteGroup_DTI_01_FinalProject
+**Tableau:** https://public.tableau.com/app/profile/rahmad.hadi.syafra.demora/viz/AutoInsuranceDashboard_17241501812520/Page1
+
+---
+
+### California Housing Price Prediction
+**Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Scikit-learn, Google Cloud
+Machine learning project for predicting housing prices using regression models and evaluation metrics.
+
+**Repo:** https://github.com/Malik0-0/California_House_Predict
+
+---
+
+### NYC TLC Data Analysis
+**Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Tableau
+Exploratory data analysis on NYC Taxi & Limousine Commission datasets to uncover trends and insights.
+
+**Repo:** https://github.com/Malik0-0/NYC-TLC-Analysis
+
+---
+
+## Security Labs & Learning
 - HackTheBox, TryHackMe & PortSwigger Web Security Labs  
 - Vulnerabilities explored: **XSS, SQLi, IDOR, JWT, CORS**
 - CEH Modules
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Malik0-0&show_icons=true&theme=tokyonight" height="160"/>
