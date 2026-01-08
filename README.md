@@ -82,8 +82,9 @@ My focus is not just shipping features, but understanding **architecture, data, 
 
 A full-stack application that allows the public to report environmental problems (damaged roads, garbage, flooding, public facilities), and provides a backend system for centralized monitoring, verification, and reporting status updates.
 
-**Repo:** https://github.com/PurwadhikaDev/IgniteGroup_DTI_01_FinalProject
-
+**Repo Backend:** https://github.com/Malik0-0/urbanreport-api \
+**Repo Frontend:** https://github.com/Malik0-0/urbanreport-mobile \
+**Demo:** 
 ---
 
 ### GuildHall — Service Marketplace
