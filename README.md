@@ -79,6 +79,7 @@ My focus is not just shipping features, but understanding **architecture, data, 
 
 ### UrbanReport — Civic Tech Application [on development]
 **Tech Stack:** Flutter, Golang, Postgresql, Redis, \
+
 A full-stack application that allows the public to report environmental problems (damaged roads, garbage, flooding, public facilities), and provides a backend system for centralized monitoring, verification, and reporting status updates.
 
 **Repo:** https://github.com/PurwadhikaDev/IgniteGroup_DTI_01_FinalProject
@@ -87,6 +88,7 @@ A full-stack application that allows the public to report environmental problems
 
 ### GuildHall — Service Marketplace
 **Tech Stack:** Laravel, Node.js, Midtrans, Tailwind, Sqlite & Postgresql, Redis \
+
 A full-stack streamlined service marketplace platform that transforms traditional freelance work into an engaging gamified experience. By incorporating RPG elements like gold currency, experience points, leveling systems, and trust tiers, we've created a unique ecosystem that motivates service providers and builds trust with clients.
 
 **Repo:** https://github.com/Malik0-0/Guildhall \
@@ -96,6 +98,7 @@ A full-stack streamlined service marketplace platform that transforms traditiona
 
 ### Invify — Invoice Management System
 **Tech Stack:** Next.js, Typescript, Tailwind, Supabase \
+
 A full-stack invoice management application with business profiles, customer management, invoice generation, PDF export, and email delivery.
 
 **Repo:** https://github.com/jund-fauz/invify \
@@ -105,6 +108,7 @@ A full-stack invoice management application with business profiles, customer man
 
 ### IgniteGroup — Auto Insurance Data Analytics  
 **Tech Stack:** Python, Pandas, NumPy, SQL, Tableau, Scikit-learn, Streamlit, Pickle \
+
 A collaborative data analytics final project focused on data cleaning, exploratory data analysis (EDA), insight generation, and structured reporting.
 
 **Repo:** https://github.com/PurwadhikaDev/IgniteGroup_DTI_01_FinalProject \
@@ -114,6 +118,7 @@ A collaborative data analytics final project focused on data cleaning, explorato
 
 ### California Housing Price Prediction
 **Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Scikit-learn, Google Cloud \
+
 Machine learning project for predicting housing prices using regression models and evaluation metrics.
 
 **Repo:** https://github.com/Malik0-0/California_House_Predict
@@ -122,6 +127,7 @@ Machine learning project for predicting housing prices using regression models a
 
 ### NYC TLC Data Analysis
 **Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Tableau \
+
 Exploratory data analysis on NYC Taxi & Limousine Commission datasets to uncover trends and insights.
 
 **Repo:** https://github.com/Malik0-0/NYC-TLC-Analysis
@@ -132,15 +138,6 @@ Exploratory data analysis on NYC Taxi & Limousine Commission datasets to uncover
 - HackTheBox, TryHackMe & PortSwigger Web Security Labs  
 - Vulnerabilities explored: **XSS, SQLi, IDOR, JWT, CORS**
 - CEH Modules
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malik0-0&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top_langs/?username=Malik0-0&layout=compact&theme=tokyonight" height="160"/>
-</div>
 
 ---
 
