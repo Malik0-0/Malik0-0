@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Malik Alrasyid Basori
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=4000&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=300&lines=Full-Stack+Engineer;Data+Science+Explorer;Offensive+Security+Learner;Build+%E2%86%92+Break+%E2%86%92+Learn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=200&lines=Full-Stack+Engineer;Data+Science+Explorer;Offensive+Security+Learner;Build+%E2%86%92+Break+%E2%86%92+Learn" />
 </div>
 
 ---
