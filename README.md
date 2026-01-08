@@ -94,7 +94,7 @@ A full-stack application that allows the public to report environmental problems
 **Tech Stack:** Laravel, Node.js, Midtrans, Tailwind, Sqlite & Postgresql, Redis
 A full-stack streamlined service marketplace platform that transforms traditional freelance work into an engaging gamified experience. By incorporating RPG elements like gold currency, experience points, leveling systems, and trust tiers, we've created a unique ecosystem that motivates service providers and builds trust with clients.
 
-**Repo:** https://github.com/Malik0-0/Guildhall
+**Repo:** https://github.com/Malik0-0/Guildhall \
 **Demo:** https://guildhall.up.railway.app/
 
 ---
@@ -103,7 +103,7 @@ A full-stack streamlined service marketplace platform that transforms traditiona
 **Tech Stack:** Next.js, Typescript, Tailwind, Supabase
 A full-stack invoice management application with business profiles, customer management, invoice generation, PDF export, and email delivery.
 
-**Repo:** https://github.com/jund-fauz/invify
+**Repo:** https://github.com/jund-fauz/invify \
 **Demo:** https://invify-demo.vercel.app/
 
 ---
@@ -112,7 +112,7 @@ A full-stack invoice management application with business profiles, customer man
 **Tech Stack:** Python, Pandas, NumPy, SQL, Tableau, Scikit-learn, Streamlit, Pickle
 A collaborative data analytics final project focused on data cleaning, exploratory data analysis (EDA), insight generation, and structured reporting.
 
-**Repo:** https://github.com/PurwadhikaDev/IgniteGroup_DTI_01_FinalProject
+**Repo:** https://github.com/PurwadhikaDev/IgniteGroup_DTI_01_FinalProject \
 **Tableau:** https://public.tableau.com/app/profile/rahmad.hadi.syafra.demora/viz/AutoInsuranceDashboard_17241501812520/Page1
 
 ---
