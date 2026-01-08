@@ -89,7 +89,7 @@ A full-stack application that allows the public to report environmental problems
 ---
 
 ### GuildHall — Service Marketplace
-**Tech Stack:** Laravel, Node.js, Midtrans, Tailwind, Sqlite & Postgresql, Redis
+**Tech Stack:** Laravel, Node.js, Midtrans, Tailwind, Blade, Sqlite, MySQL & Postgresql, Redis, Reverb, Tinker, Docker
 
 A full-stack streamlined service marketplace platform that transforms traditional freelance work into an engaging gamified experience. By incorporating RPG elements like gold currency, experience points, leveling systems, and trust tiers, we've created a unique ecosystem that motivates service providers and builds trust with clients.
 
