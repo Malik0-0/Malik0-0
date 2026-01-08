@@ -98,7 +98,7 @@ A full-stack streamlined service marketplace platform that transforms traditiona
 **Tech Stack:** Next.js, Typescript, Tailwind, Supabase
 A full-stack invoice management application with business profiles, customer management, invoice generation, PDF export, and email delivery.
 
-**Repo:** (https://github.com/jund-fauz/invify) \
+**Repo:** https://github.com/jund-fauz/invify \
 **Demo:** https://invify-demo.vercel.app/
 
 ---
