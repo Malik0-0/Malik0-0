@@ -153,6 +153,14 @@ Exploratory data analysis on NYC Taxi & Limousine Commission datasets to uncover
 
 ---
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Yunanouv">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malik0-0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malik0-0&layout=compact&langs_count=8&theme=omni"/>
+</a>
+</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Malik0-0&style=for-the-badge&color=38BDF8" />
 </div>
