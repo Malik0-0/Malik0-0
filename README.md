@@ -3,12 +3,9 @@
 ## About Me
 
 <div align="center">
-  <p align="center">
-    <a href="https://github.com/Malik0-0">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malik0-0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malik0-0&layout=compact&langs_count=8&theme=omni"/>
-    </a>
-  </p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=1000&pause=2000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Full-Stack+Engineer;Data+Science+Explorer;Offensive+Security+Learner;Build+%E2%86%92+Break+%E2%86%92+Learn" />
+  
 </div>
 
 **Full-Stack Engineer** ——> who enjoys building real-world applications end-to-end  
@@ -23,14 +20,21 @@ My focus is not just shipping features, but understanding **architecture, data, 
   [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Malik0-0)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-alrasyid-basori)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikalrasyid.basori@gmail.com)
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=1000&pause=2000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Full-Stack+Engineer;Data+Science+Explorer;Offensive+Security+Learner;Build+%E2%86%92+Break+%E2%86%92+Learn" />
   
 </div>
 
 ---
 
 ## Tech Stack & Skills
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/Malik0-0">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malik0-0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malik0-0&layout=compact&langs_count=8&theme=omni"/>
+    </a>
+  </p>
+</div>
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
