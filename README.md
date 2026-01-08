@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-💻 **Full-Stack Engineer** who enjoys building real-world applications end-to-end  
-📊 **Data Enthusiast** who loves extracting insights from real datasets  
-🛡️ **Offensive Security Learner** — breaking systems ethically to understand how they work  
+💻 **Full-Stack Engineer** ——> who enjoys building real-world applications end-to-end  
+📊 **Data Enthusiast** ——> who loves extracting insights from real datasets  
+🛡️ **Offensive Security Learner** ——> breaking systems ethically to understand how they work  
 
 I learn best by **building**, **testing**, and **exploiting (ethically)** systems.  
 My focus is not just shipping features, but understanding **architecture, data, and security implications** behind them.
