@@ -7,6 +7,14 @@
 
 <div align="center">
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Malik0-0">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malik0-0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malik0-0&layout=compact&langs_count=8&theme=omni"/>
+</a>
+</p>
+
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Malik0-0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-alrasyid-basori)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikalrasyid.basori@gmail.com)
@@ -152,14 +160,6 @@ Exploratory data analysis on NYC Taxi & Limousine Commission datasets to uncover
 - CEH Modules
 
 ---
-
-### Github Statistic
-<p align="left">
-<a href="https://github.com/Malik0-0">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malik0-0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malik0-0&layout=compact&langs_count=8&theme=omni"/>
-</a>
-</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Malik0-0&style=for-the-badge&color=38BDF8" />
