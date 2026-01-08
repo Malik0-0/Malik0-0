@@ -1,5 +1,14 @@
 # 👋 Hi there! I'm Malik Alrasyid Basori
 
+## About Me
+
+**Full-Stack Engineer** ——> who enjoys building real-world applications end-to-end  
+**Data Enthusiast** ——> who loves extracting insights from real datasets  
+**Offensive Security Learner** ——> breaking systems ethically to understand how they work  
+
+I learn best by **building**, **testing**, and **exploiting (ethically)** systems.  
+My focus is not just shipping features, but understanding **architecture, data, and security implications** behind them.
+
 <div align="center">
   <p align="center">
     <a href="https://github.com/Malik0-0">
@@ -17,15 +26,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=1000&pause=2000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Full-Stack+Engineer;Data+Science+Explorer;Offensive+Security+Learner;Build+%E2%86%92+Break+%E2%86%92+Learn" />
 </div>
-
-## About Me
-
-**Full-Stack Engineer** ——> who enjoys building real-world applications end-to-end  
-**Data Enthusiast** ——> who loves extracting insights from real datasets  
-**Offensive Security Learner** ——> breaking systems ethically to understand how they work  
-
-I learn best by **building**, **testing**, and **exploiting (ethically)** systems.  
-My focus is not just shipping features, but understanding **architecture, data, and security implications** behind them.
 
 ---
 
