@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Malik Alrasyid Basori
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=500&pause=2000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=110&lines=Full-Stack+Engineer;Data+Science+Explorer;Offensive+Security+Learner;Build+%E2%86%92+Break+%E2%86%92+Learn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=1000&pause=2000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=110&lines=Full-Stack+Engineer;Data+Science+Explorer;Offensive+Security+Learner;Build+%E2%86%92+Break+%E2%86%92+Learn" />
 </div>
 
 ---
@@ -38,6 +38,7 @@ My focus is not just shipping features, but understanding **architecture, data, 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
@@ -47,22 +48,34 @@ My focus is not just shipping features, but understanding **architecture, data, 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
-### 🗄️ Database & Data
+### 📊 Data, ML & Visualization
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 🗄️ Database & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
 ### 🛡️ Security & Tools
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=security&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,31 +84,25 @@ My focus is not just shipping features, but understanding **architecture, data, 
 
 ## 🌟 Featured Projects
 
-### 🧾 Invify — Invoice Management System  
+### 🧾 Invify — Invoice Management System
 A full-stack invoice management application with business profiles, customer management, invoice generation, PDF export, and email delivery.  
 
-🔗 **Repo:** https://github.com/your-username/invify
-
 ---
 
-### 📊 NYC TLC Data Analysis  
+### 📊 NYC TLC Data Analysis
 Exploratory data analysis on NYC Taxi & Limousine Commission datasets to uncover trends and insights.  
 
-🔗 **Repo:** https://github.com/your-username/NYC-TLC-Analysis
-
 ---
 
-### 🧠 California Housing Price Prediction  
+### 🧠 California Housing Price Prediction
 Machine learning project for predicting housing prices using regression models and evaluation metrics.  
-
-🔗 **Repo:** https://github.com/your-username/California_House_Predict
 
 ---
 
 ## 🛡️ Security Labs & Learning
-- TryHackMe & PortSwigger Web Security Labs  
+- HackTheBox, TryHackMe & PortSwigger Web Security Labs  
 - Vulnerabilities explored: **XSS, SQLi, IDOR, JWT, CORS**
-- CEH Modules (Completed)
+- CEH Modules
 
 ---
 
