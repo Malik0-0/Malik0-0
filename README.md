@@ -85,10 +85,10 @@ My focus is not just shipping features, but understanding **architecture, data, 
 
 ---
 
-## Featured Projects
+## Projects
 
 ### UrbanReport — Civic Tech Application [on development]
-**Tech Stack:** Flutter, Golang, Postgresql, Redis, 
+**Tech Stack:** Flutter, Golang, Postgresql, GORM, Redis, Docker
 
 A full-stack application that allows the public to report environmental problems (damaged roads, garbage, flooding, public facilities), and provides a backend system for centralized monitoring, verification, and reporting status updates.
 
@@ -119,12 +119,11 @@ A full-stack invoice management application with business profiles, customer man
 ---
 
 ### CircleApp — Social Media
-**Tech Stack:** Node.js, TypeScript, Tailwind, Express.js, PostgreSQL, Prisma, JWT & bcrypt, Socket.io, Supabase, BullMQ, Redis, Zod
+**Tech Stack:** Node.js, React.js, TypeScript, Tailwind, Express.js, PostgreSQL, Prisma, JWT & bcrypt, Socket.io, Supabase, BullMQ, Redis, Zod
 
 A full-stack social media platform similar to Twitter/X, featuring real-time messaging, user interactions, and content sharing capabilities. The application enables users to create threads, post replies, like content, follow other users, and engage in real-time conversations through WebSocket connections.
 
-**Repo:** https://github.com/Malik0-0/Circle-App \
-**Demo:** [on progress]
+**Repo:** https://github.com/Malik0-0/Circle-App
 
 ---
 
